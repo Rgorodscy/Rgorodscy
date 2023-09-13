@@ -38,8 +38,8 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgorodscy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rgorodscy.vercel.app/api/top-langs/?username=Rgorodscy&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Renatos's GitHub stats](https://github-readme-stats-rgorodscy.vercel.app/api?username=Rgorodscy&count_private=true)
+![Renatos's GitHub stats](https://github-readme-stats-rgorodscy.vercel.app/api?username=Rgorodscy&count_private=true&show_icons=true&theme=transparentinclude_all_commits=true)
 
 
