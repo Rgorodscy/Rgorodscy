@@ -40,6 +40,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rgorodscy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Renatos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rgorodscy&count_private=true)
+![Renatos's GitHub stats](https://github-readme-stats-rgorodscy.vercel.app/api?username=Rgorodscy&count_private=true)
 
 
